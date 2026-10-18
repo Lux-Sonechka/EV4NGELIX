@@ -1,0 +1,9 @@
+3: limpar a tela 
+4: printar número
+5: ler caractere
+6: dormir X milissegundos
+7: wait for input (estilo python)
+8: printar caractere
+9: printar caractere em cor
+10: 
+69: modo femboy

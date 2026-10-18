@@ -1,0 +1,15 @@
+{
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "files.associations": {
+        "screen.h": "c",
+        "string.h": "c",
+        "fat16.h": "c",
+        "kernel.h": "c",
+        "math.h": "c",
+        "low_level.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "8bit_font.h": "c"
+    }
+}

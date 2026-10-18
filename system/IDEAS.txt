@@ -1,0 +1,4 @@
+Implement a "smart" IDE that can be used to write code, compile it, and run it.
+Implement IwIP
+Implement Macintosh like windows management
+SDL-Like visual lib for EVX
